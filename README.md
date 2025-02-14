@@ -19,7 +19,7 @@ The Email Validator is a simple web application that allows users to verify the 
 ⚙️ JavaScript: Handle validation logic.
 
 Clone the repository:
-git clone https://github.com/yourusername/email-validator.git
+git clone git clone https://github.com/ensanya/email-validator.git
 
 Navigate to the project folder:
 cd email-validator
@@ -37,6 +37,8 @@ The app will validate the input in real-time.
 
 ❌ If the email is invalid, an error message will be displayed.
 
+
+
 🔮 Future Enhancements
 
 🔍 Add domain-specific validation.
@@ -46,6 +48,8 @@ The app will validate the input in real-time.
 🎭 Improve UI/UX with animations.
 
 🔄 Provide suggestions for mistyped domains (e.g., @gmail instead of @gamil).
+
+
 
 📜 License
 
