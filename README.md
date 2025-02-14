@@ -12,6 +12,7 @@ The Email Validator is a simple web application that allows users to verify the 
 🎨 Simple and user-friendly UI.
 ⚡ Lightweight and fast performance.
 
+<br>
 🛠 Technologies Used
 
 🏗️ HTML: Structure the web page.
@@ -37,7 +38,7 @@ The app will validate the input in real-time.
 
 ❌ If the email is invalid, an error message will be displayed.
 
-
+<br>
 
 🔮 Future Enhancements
 
